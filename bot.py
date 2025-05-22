@@ -17,8 +17,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 DEFAULT_CHANNEL = "-1002418844773"
 
 FOOTER_HTML = """
-<blockquote><b>➥ ʙʏ : [@Anime_Community_India]</b>
-</blockquote>
+</b>━━━━━━━━━━━━━━━━━━━━━━
+➥ ʙʏ : [@Anime_Community_India] </b>
 """
 
 settings = {
